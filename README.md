@@ -1,33 +1,31 @@
-# 🚔 Crime Data Analysis Project
+##  Crime Data Analysis Project
 
-## Project Overview
-This project analyzes crime data using Python, PostgreSQL, and Power BI to identify crime trends, top states, and population-crime relationships.
+This project analyzes crime data using Python, PostgreSQL, SQL Queries, and Power BI Dashboard.
 
-## Tools Used
+##  Tools Used
 - Python (Pandas, NumPy)
 - PostgreSQL
 - Power BI
 - Jupyter Notebook
 
-## Dashboard Insights
+##  Key Insights
 - Crime trend over the years
 - Top crime states
-- State-wise crime map
-- Population vs Crime analysis
-- Interactive filters
+- Population vs Crime relationship
+- Interactive dashboard filtering
 
-## Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](crime_screenshot.png)
 
-## Project Files
-- `107_crime_python.ipynb` → Data cleaning & analysis
-- `crime_project_db.sql` → SQL queries
-- `crime_project_db.pbix` → Power BI dashboard
-- `crime_project_report.pdf` → Project report
+##  Files Included
+- 107_crime_python.ipynb → Python cleaning & analysis
+- crime_project_db.sql → SQL queries
+- crime_project_db.pbix → Power BI dashboard
+- crime_project_report.pdf → Final report
 
-## Outcome
-This dashboard helps in understanding crime patterns and supports data-driven decisions.
+##  Conclusion
+This project helps understand crime patterns and supports better decision making using data analytics.
 
 ## Created By
 Mansi Vishve
