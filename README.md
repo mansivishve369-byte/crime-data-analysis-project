@@ -16,6 +16,10 @@ This project analyzes crime data using Python, PostgreSQL, and Power BI to ident
 - Population vs Crime analysis
 - Interactive filters
 
+## Dashboard Preview
+
+![Dashboard](crime_screenshot.png)
+
 ## Project Files
 - `107_crime_python.ipynb` → Data cleaning & analysis
 - `crime_project_db.sql` → SQL queries
